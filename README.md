@@ -2,11 +2,11 @@
 
 _Português Pt-Br_
 
-A idéia principal deste projeto é criar uma página usando somente HTML, usando todas as tags que foram ensinadas durante as aulas do bootcamp. Foi desenvolvido entao, uma página que nos diz um pouco da história do HTML, o seu criador, e as tags mais utilizadas e um pouco sobre cada uma delas.
+A ideia principal deste projeto é criar uma página usando somente HTML, usando todas as tags que foram ensinadas durante as aulas do bootcamp. Foi desenvolvido então, uma página que nos diz um pouco da história do HTML, o seu criador, e as tags mais utilizadas e um pouco sobre cada uma delas.
 
 *Recursos e Funcionalidades Principais:*
 
-1. `Fácil acesso ao contúdo:` O usuário pode ser facilmente direcionado ao conteúdo da página que deseja vizualizar, bastando apenas clicar no titúlo do tópico.
+1. `Fácil acesso ao conteúdo:` O usuário pode ser facilmente direcionado ao conteúdo da página que deseja visualizar, bastando apenas clicar no titúlo do tópico.
 
 2. `Navegação entre os conteúdos:` Por meio da tag `<a>` o usuário consegue ir até o tópico desejado e retornar ao índice clicando no texto "voltar".
 
